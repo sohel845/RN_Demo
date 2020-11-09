@@ -1,0 +1,2 @@
+export const SET_DEVICE_ORIENTATION = 'device/SET_DEVICE_ORIENTATION'
+export const SET_DEVICE_TYPE = 'device/SET_DEVICE_TYPE'
